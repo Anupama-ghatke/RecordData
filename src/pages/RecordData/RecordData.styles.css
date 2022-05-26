@@ -1,0 +1,19 @@
+.record-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-container {
+    display: flex;
+}
+
+.inputs {
+    padding: 15px 10px;
+    width: 300px;
+}
+
+.container-button {
+    margin-top: 20px;
+}
